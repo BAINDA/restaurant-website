@@ -14,7 +14,7 @@
 
 ## 🖼️ Preview
 
-![Restaurant Bainda Preview](https://github.com/user-attachments/assets/f657f0d1-3330-43d3-a637-8201352edd99)
+![Restaurant Bainda Preview](https://github.com/user-attachments/assets/ac1079cf-3444-4ce7-8a2c-3d6125b639b6)
 
 --- 
 
